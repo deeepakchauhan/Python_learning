@@ -20,4 +20,4 @@ for collections in groceries:
     for food in collections:
         print(food, end=" ")
 
-    print()        
+    print()  
