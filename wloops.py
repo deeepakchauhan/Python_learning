@@ -1,4 +1,4 @@
-# while loop = execute some code WHILE some condition remains true 
+# while loop = execute some code WHILE some condition remains true , if you want to execute something for some amount of time
 
 # age = int(input("how old are you :"))
 
