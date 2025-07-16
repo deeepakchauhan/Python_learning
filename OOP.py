@@ -15,7 +15,7 @@ class Car:
         self.for_sale = for_sale
 
     def drive(self):
-        print(f"you drive the {self.color} {self.model}")  # self is referring to the object currently we are working with
+        print(f"you drive the {self.color} {self.model}")          #self refers to the object currently we are working with
 
     def stop(self):
         print(f"stop the {self.color} {self.model}") 
